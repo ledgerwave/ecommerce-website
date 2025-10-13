@@ -28,7 +28,7 @@ npm install
 npm run dev
 ```
 
-3. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+3. Open [http://localhost:4000](http://localhost:4000) with your browser to see the result.
 
 ## ⚙️ Environment Variables
 
@@ -43,7 +43,7 @@ MONGODB_URI=your_mongodb_uri
 GOOGLE_CLIENT_ID=your_google_client_id
 GOOGLE_CLIENT_SECRET=your_google_client_secret
 NEXTAUTH_SECRET=your_nextauth_secret
-NEXTAUTH_URL=http://localhost:3000
+NEXTAUTH_URL=http://localhost:4000
 
 # Image Storage
 CLOUDINARY_CLOUD_NAME=your_cloudinary_name
